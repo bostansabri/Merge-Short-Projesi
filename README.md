@@ -16,4 +16,4 @@ Cevap 1-
 
 Cevap 2-
 
-2^x=n -> logn=x Big-O=O(nlogn)
+2^x=n -> logn=x Big-O=O(nlogn) = O(6log6)
